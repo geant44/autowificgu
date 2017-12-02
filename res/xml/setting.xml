@@ -12,12 +12,12 @@
         
     </PreferenceCategory>
 	
-    <PreferenceCategory android:title="以訪客登入" >
-        <EditTextPreference android:title="修改信箱" android:key="mail" android:defaultValue="defaut@mail" android:summary="登入信箱"/>
+    <PreferenceCategory android:title="以訪客登入(itaiwan)" >
+        <EditTextPreference android:title="修改信箱" android:key="mail" android:defaultValue="defaut@itw" android:summary="登入信箱"/>
     </PreferenceCategory>
     
     <PreferenceCategory android:title="以帳密登入" android:selectable="false">
-        <EditTextPreference android:title="更改帳號" android:key="user" android:defaultValue="default@stmail.cgu.edu.tw" android:summary="信箱帳號"/>
+        <EditTextPreference android:title="更改帳號" android:key="user" android:defaultValue="default@cgu.edu.tw" android:summary="信箱帳號"/>
         <EditTextPreference android:title="更改密碼" android:key="pass" android:summary="信箱密碼"/>
     </PreferenceCategory>
     <PreferenceCategory android:title="其他">
