@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">长庚大学无线网络自动登入</string>
+    <string name="action_settings">设定</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="readme">本程序仅在长庚大学内使用，无线网络名称需为 TANetRoaming 才会有效果。\n\n另原始码放在Github上，若对程序有任何疑问或是指教，请至Google Play上询问或来信告知。\n\n作者现在不在长庚也不在台湾，而且作者已经快要毕业了（应该啦），所以更新速度可能不会那么频繁，很有可能会漏掉什么，届时请在来信告知，谢谢。 \nm(_ _)m\n\n</string>
+    <string name="auther">By 资管小鲁蛇 Yu-Jung Lin (B9744249->M0144010)</string>
+
+
+</resources>
